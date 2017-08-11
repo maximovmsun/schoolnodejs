@@ -1,0 +1,15 @@
+input.error {
+    border: 1px solid red;
+}
+
+div.error {
+    border: 1px solid red;
+}
+
+div.success {
+    border: 1px solid green;
+}
+
+div.progress {
+    border: 1px solid orange;
+}
